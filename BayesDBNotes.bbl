@@ -1,0 +1,25 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Mansinghka et~al.(2015)Mansinghka, Shafto, Jonas, Petschulat, Gasner,
+  and Tenenbaum]{DBLP:journals/corr/MansinghkaSJPGT15}
+Vikash~K. Mansinghka, Patrick Shafto, Eric Jonas, Cap Petschulat, Max Gasner,
+  and Joshua~B. Tenenbaum.
+\newblock Crosscat: {A} fully bayesian nonparametric method for analyzing
+  heterogeneous, high dimensional data.
+\newblock \emph{CoRR}, abs/1512.01272, 2015.
+\newblock URL \url{http://arxiv.org/abs/1512.01272}.
+
+\bibitem[Saad et~al.(2017)Saad, Casarsa, and
+  Mansinghka]{DBLP:journals/corr/SaadCM17}
+Feras Saad, Leonardo Casarsa, and Vikash~K. Mansinghka.
+\newblock Probabilistic search for structured data via probabilistic
+  programming and nonparametric bayes.
+\newblock \emph{CoRR}, abs/1704.01087, 2017.
+\newblock URL \url{http://arxiv.org/abs/1704.01087}.
+
+\end{thebibliography}
